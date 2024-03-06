@@ -1,0 +1,120 @@
+:: StoryTitle
+M4 C++
+
+
+:: StoryData
+{
+  "ifid": "B9C5854B-A5D7-4B5D-A31D-CEA474E0B631",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ Aizen Sosuke\  {"position":"700,1275","size":"100,100"}
+[[ Choose your difficulty!->Difficulty]]
+
+
+:: \ Byakuya Kuchiki\  {"position":"1075,1275","size":"100,100"}
+[[ Choose your difficulty!->Difficulty]]
+
+
+:: \ Easy: This mode is to have fun and practice combos.\  {"position":"900,1800","size":"100,100"}
+
+
+
+:: \ Fake Karakura Town\  {"position":"1125,900","size":"100,100"}
+[[ Choose your opponent!->opponent]]
+
+
+:: \ Hard: If you want something more challenging, but at the same time some fun, this is your place.\  {"position":"1300,1800","size":"100,100"}
+
+
+
+:: \ Hueco Mundo\  {"position":"700,900","size":"100,100"}
+[[ Choose your opponent!->opponent]]
+
+
+:: \ Kenpachi Zaraki\  {"position":"900,1300","size":"100,100"}
+[[ Choose your difficulty!->Difficulty]]
+
+
+:: \ Soul Reaper: This is the most challenging and difficult mode. If you want something more challenging, this is your place.\  {"position":"550,1775","size":"100,100"}
+
+
+
+:: \ Soul Society\  {"position":"900,900","size":"100,100"}
+[[ Choose your opponent!->opponent]]
+
+
+:: Arena {"position":"900,650","size":"100,100"}
+Choose your arena!
+[[ Soul Society ]]
+
+
+[[ Fake Karakura Town ]]
+
+
+[[ Hueco Mundo ]]
+
+
+
+
+:: Difficulty {"position":"900,1500","size":"100,100"}
+Choose your difficulty!
+
+[[ Easy: This mode is to have fun and practice combos. ]]
+
+
+[[ Hard: If you want something more challenging, but at the same time some fun, this is your place. ]]
+
+
+[[ Soul Reaper: This is the most challenging and difficult mode. If you want something more challenging, this is your place. ]]
+
+
+
+
+:: Ichigo Kurosaki {"position":"900,425","size":"100,100"}
+[[ Choose your arena!->Arena]]
+
+
+
+:: Renji Abarai {"position":"775,475","size":"100,100"}
+[[ Choose your arena!->Arena]]
+
+
+:: Rukia Kuchiki {"position":"1025,475","size":"100,100"}
+[[ Choose your arena!->Arena]]
+
+
+
+
+:: Untitled Passage {"position":"900,200","size":"100,100"}
+Choose your character!
+
+[[Ichigo Kurosaki]]
+
+
+[[Rukia Kuchiki]]
+
+
+[[Renji Abarai]]
+
+
+
+
+
+
+:: opponent {"position":"900,1100","size":"100,100"}
+Choose your opponent!
+
+[[ Kenpachi Zaraki ]]
+
+
+[[ Byakuya Kuchiki ]]
+
+
+[[ Aizen Sosuke ]]
+
+
