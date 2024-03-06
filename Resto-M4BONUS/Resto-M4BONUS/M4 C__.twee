@@ -51,9 +51,12 @@ M4 C++
 :: Arena {"position":"900,650","size":"100,100"}
 Choose your arena!
 [[ Soul Society ]]
+<img src="https://adrielresto.github.io/soul_society.jpg" width ="300">
 
 
 [[ Fake Karakura Town ]]
+
+
 
 
 [[ Hueco Mundo ]]
@@ -76,6 +79,8 @@ Choose your difficulty!
 
 
 :: Ichigo Kurosaki {"position":"900,425","size":"100,100"}
+
+
 [[ Choose your arena!->Arena]]
 
 
@@ -93,13 +98,20 @@ Choose your difficulty!
 :: Untitled Passage {"position":"900,200","size":"100,100"}
 Choose your character!
 
-[[Ichigo Kurosaki]]
+[[Ichigo Kurosaki]] 
+<img src="https://adrielresto.github.io/ichigo.jpg" width ="200">
+
+----------------------------------------------------------------------
 
 
 [[Rukia Kuchiki]]
 
+<img src="https://adrielresto.github.io/rukia.png" width ="200">
 
+------------------------------------------------------------------------
 [[Renji Abarai]]
+
+<img src="https://adrielresto.github.io/renji.jpg" width ="200">
 
 
 
